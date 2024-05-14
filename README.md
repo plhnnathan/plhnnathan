@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Nathan</code>, tenho 18 anos e moro em BH. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Nathan</code>, tenho 18 anos e moro em BH. Atualmente estou no primeiro período do curso de Sistemas de informação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> .
 </div>
 
 -----
