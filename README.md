@@ -1,12 +1,6 @@
 -----
 
 <div align="center">
-<img align="center" alt="Header" src="https://github.com/plhnnathan/plhnnathan/blob/main/img/github-header-image6.png"/>
-</div>
-
------
-
-<div align="center">
 <table>
 <tr>
  <td align="center" colspan="11"></td>
