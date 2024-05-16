@@ -6,15 +6,15 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/plhnnathan" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/github.png" width="50px" height="50px"/></a>
+<td><a href="https://github.com/plhnnathan" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/github%20(1).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:plhn.nathan@gmail.com" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/gmail.png" width="50px" height="50px"/></a>
+<td><a href="mailto:plhn.nathan@gmail.com" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/gmail%20(1).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531984685896" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/whatsapp2.png" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531984685896" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/whatsapp3.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/plhn.nathan/" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/instagram.png" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/plhn.nathan/" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/instagram%202.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/535187626911596574" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/discordia.png" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/535187626911596574" target="_blank"><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/discordia2.png" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
