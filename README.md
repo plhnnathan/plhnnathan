@@ -31,7 +31,7 @@
 <div align="justify"> 
 <p> 
 - :man_teacher: &nbsp; Estudante na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, cursando o segundo período de <br />Sistemas de Informação.<br />
-- :soccer: &nbsp; Atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
+- :soccer: &nbsp; Atleticano. :trophy:<br />
 - :mailbox: &nbsp; Meu email <a href="mailto:plhn.nathan@gmail.com" target="_blank">e-mail</a>.<br />
 </p>
 </div>
@@ -109,7 +109,7 @@
  <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
-<td><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/qr-pix.png" width="70px" height="70px"/></td>
+<td><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/qr-pix.png" width="90px" height="90px"/></td>
 </tr>
 </table>
 <a href="mailto:plhn.nathan@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -120,19 +120,6 @@
 <a href="https://steamcommunity.com/profiles/76561199135612683/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
 <a href="https://github.com/plhnnathan" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
------
 
 <div>
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
