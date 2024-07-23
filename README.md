@@ -108,7 +108,7 @@
  <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
-<td><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/qr-pix.png" width="90px" height="90px"/></td>
+<td><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/qr-pix.png" width="70px" height="70px"/></td>
 </tr>
 </table>
 <a href="mailto:plhn.nathan@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
