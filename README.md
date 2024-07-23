@@ -28,10 +28,9 @@
 <div>
 <div>
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
-
-<div>
+<div align="justify"> 
 <p> 
-- :man_teacher: &nbsp; Atualmente estudante na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, cursando o segundo período de <br />Sistemas de Informação.<br />
+- :man_teacher: &nbsp; Estudante na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, cursando o segundo período de <br />Sistemas de Informação.<br />
 - :soccer: &nbsp; Atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 - :mailbox: &nbsp; Meu email <a href="mailto:plhn.nathan@gmail.com" target="_blank">e-mail</a>.<br />
 </p>
