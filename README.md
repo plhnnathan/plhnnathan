@@ -82,10 +82,6 @@
 </table>
 </div>
 
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
-
 -----
 
 
