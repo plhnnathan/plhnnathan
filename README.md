@@ -32,7 +32,6 @@
 <p> 
 - :man_teacher: &nbsp; Estudante na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, cursando o segundo período de <br />Sistemas de Informação.<br />
 - :soccer: &nbsp; Atleticano. :trophy:<br />
-- :mailbox: &nbsp; Meu email <a href="mailto:plhn.nathan@gmail.com" target="_blank">e-mail</a>.<br />
 </p>
 </div>
 </div>
