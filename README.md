@@ -31,7 +31,7 @@
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Atualmente estudante na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, cursando o primeiro período de <br />Sistemas de Informação.<br />
+- :man_teacher: &nbsp; Atualmente estudante na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, cursando o segundo período de <br />Sistemas de Informação.<br />
 - :soccer: &nbsp; Atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 - :mailbox: &nbsp; Meu email <a href="mailto:plhn.nathan@gmail.com" target="_blank">e-mail</a>.<br />
 </p>
@@ -40,13 +40,33 @@
 
 -----
 
+<div>
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plhnnathan&theme=github_dark"/>
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plhnnathan&theme=github_dark"/> -->
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plhnnathan&theme=github_dark"/>
+</td>
+<td>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=plhnnathan&theme=github_dark"/>
+</td>
+<td>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plhnnathan&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+
 </div>
 
 -----
