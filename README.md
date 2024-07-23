@@ -104,6 +104,37 @@
 -----
 
 <div>
+<table align="right">
+<tr>
+ <td align="center" colspan="1">Pix</td>
+</tr> 
+<tr>
+<td><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/qr-pix.png" width="70px" height="70px"/></td>
+</tr>
+</table>
+<a href="mailto:plhn.nathan@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5531984685896" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://discordapp.com/users/535187626911596574" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/9b7gn5w22qel8w61qsi0ybkl1" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a href="https://www.instagram.com/plhn.nathan/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://steamcommunity.com/profiles/76561199135612683/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
+<a href="https://github.com/plhnnathan" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+-----
+
+<div>
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
 </div>
 
