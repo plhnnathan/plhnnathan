@@ -58,14 +58,30 @@
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=9b7gn5w22qel8w61qsi0ybkl1" alt="Data Card for Spotify">
 </details>
 </div>
-<div>
+ 
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=9b7gn5w22qel8w61qsi0ybkl1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=9b7gn5w22qel8w61qsi0ybkl1&count=10"/>
+</td>
+<td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
 <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=plhn_nathan&width=400"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
 </div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=9b7gn5w22qel8w61qsi0ybkl1&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=9b7gn5w22qel8w61qsi0ybkl1&count=10"/>
-</div>
+
 <div>
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
