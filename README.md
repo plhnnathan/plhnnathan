@@ -88,7 +88,7 @@
  <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
-<td><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/pix.jpeg" width="90px" height="90px"/></td>
+<td><img src="https://github.com/plhnnathan/plhnnathan/blob/main/img/WhatsApp%20Image%202025-04-13%20at%2022.09.30.png" width="100px" height="100px"/></td>
 </tr>
 </table>
 <a href="https://wa.me/5531984685896" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
