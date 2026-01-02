@@ -32,7 +32,7 @@
 <td>
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Estudante na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, cursando o terceiro período de Sistemas de Informação.
+- :man_teacher: &nbsp; Student at <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, currently in the fifth semester of Information Systems.
 </p>
 </div>
 </td>
