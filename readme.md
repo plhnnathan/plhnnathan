@@ -3,8 +3,8 @@
 <img align="right" alt="Coding GIF" src="https://github.com/plhnnathan/plhnnathan/blob/main/img/dev.gif?raw=true" width="350px" />
 
 🎓 Currently pursuing a degree in **Information Systems** at <a href="https://newtonpaiva.br/" target="_blank">**Newton Paiva Wyden**</a> (5th semester - Expected 2027).<br/><br/>
-🎯 Focused on the intersection of **Systems Development** and **Data Science/Analytics**.<br/><br/>
-🚀 Experience in building **Web Scraping** tools, **ETL Pipelines**, and **Automations** with Python and SQL.<br/><br/>
+🎯 Focused on the intersection of **Data Science/Analytics** and **Systems Development**.<br/><br/>
+🚀 Experience in building **Web Scraping** tools, **ETL Pipelines**, and **Automations** with Python, SQL and Java.<br/><br/>
 📧 Reach me: [plhn.nathan@gmail.com](mailto:plhn.nathan@gmail.com).<br/><br/>
 🌍 **Languages:** 🇧🇷 🇺🇸 🇪🇸
 
