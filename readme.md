@@ -11,7 +11,7 @@
 <br clear="right">
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nathan-chaia-ba57773a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nathan"/></a>
+  <a href="www.linkedin.com/in/plhnathan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nathan"/></a>
 </p>
 
 ---
